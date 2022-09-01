@@ -1,5 +1,7 @@
-</center>
-![profile](./assets/obmul.gif)
-</center>
-<center>Hello there</center>
+![profile](https://github.com/obmul/obmul/blob/main/assets/obmul.gif)
+
+```
+$ greetings {user}
+Hello There 😀
+```
 
