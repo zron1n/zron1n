@@ -1,8 +1,12 @@
-<img src='https://github.com/gervasgerminus/gervasgerminus/blob/main/assets/gervasgerminus.gif' width='100%' height='100%'>
+<img src='https://github.com/gervasgerminus/gervasgerminus/blob/main/assets/obmul.gif' width='100%' height='100%'>
+
 
 ```
-$ whoami
-Hello There, I'm Gervas
+$cat about-me
+
+⁍ Name : Gervas Germinus
+----That's all----
+
 ```
 <div style="display: flex; justify-content: space-between;">
 
