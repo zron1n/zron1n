@@ -4,8 +4,7 @@
 
 ```
 $cat about-me
-
-⁍ Name : Gervas Germinus
+👻
 ----That's all----
 
 ```
