@@ -4,7 +4,7 @@
 
 ```
 $cat about-me
-👻
+I'm the best at what i do
 ----That's all----
 
 ```
